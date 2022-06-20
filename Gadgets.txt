@@ -1,0 +1,3 @@
+Arduino - Microcomputador
+Raspberrypi - Microcomputador
+Kindle - Leitor de Livros

@@ -1,0 +1,6 @@
+-Criar um documento html com link:
+	-de um link externo
+	-de um site gringo
+	-de um site patrocinado
+	-de um arquivo dentro da mesma pasta
+	-de um arquivo em uma sub-pasta

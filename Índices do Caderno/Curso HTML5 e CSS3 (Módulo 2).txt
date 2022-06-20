@@ -1,0 +1,101 @@
+Curso HTML5 e CSS3 Módulo 2 (Página 24)
+
+
+
+1- Cores (Página 24)
+	• Códigos Hexadecimais (Página 25)
+
+	• Harmonia das Cores (Página 26)
+		• Círculo Cromático (Página 26)
+		• Temperatura e Harmonica (Página 26)
+		• Cores Complementares (Página 26)
+		• Cores Análogas (Página 27)
+		• Cores Análogas e uma Complementar (Página 27)
+		• Cores Análogas Relacionadas (Página 27)
+		• Cores Intercaladas (Página 27)
+		• Cores Triádicas (Página 27)
+		• Cores em Quadrados (Página 27)
+		• Cores Tetrádicas (Página 27)
+		• Monocromia (Página 27)
+	
+	• Sites para pegar paletas de cores (Página 28)
+
+	• Como representar uma cor? (Página 28)
+
+	• Usando Gradientes em Css (Página 28)
+
+
+
+2- Tipografia (Página 29)
+	• Tipografia na prática Css (Página 30)
+
+	• Tamanhos de fonte (Página 30)
+		• Medidas absolutas (Página 31)
+		• Medidas relativas (Página 31)
+
+	• Outros Estilos (Página 31)
+
+	• Atalhos (shorthands) font (Página 32)
+
+	• Usando o Google Fonts (Página 33)
+
+	• Usando fontes baixadas de outros sites (Página 34)
+
+	• Como descobrir as fontes usadas nos sites? (Página 36)
+
+	• Como descobrir fontes em imagens? (Página 36)
+
+	• Alinhamentos (Página 36)
+
+
+
+3- Seletores Personalizados em CSS (Página 37)
+	• Pseudo-classes (Página 38)
+
+	• Pseudo-elemento (Página 40)
+
+	• Resumo dos Seletores Personalizados (Página 41)
+
+
+
+4- Modelos de Caixa (Página 41)
+	• Anatomia de uma caixa (Página 42)
+		• Content (Página 42)
+		• Border (Página 42)
+		• Padding (Página 42)
+		• Margin (Página 43)
+		•Outline (Página 43)
+
+	•Tipos de Caixas (Página 43)
+		• Box-level (Página 43)
+		• Inline-level (Página 43)
+
+	• Usando o Devtools do Google Chorme (Página 44)
+	
+	• Formatando caixas no CSS (Página 44)
+
+	• Grouping Tags e Semantic Tags (Página 46)
+		• Header (Página 47)
+		• Nav (Página 47)
+		• Main (Página 47)
+		• Section (Página 47)
+		• Article (Página 47)
+		• Aside (Página 48)
+		• Footer (Página 48)
+		• Exemplo de Grouping e Semantic Tags (Página 48)
+
+	• Box-Shadow (Página 49)
+	
+	• Caixas com Vértices Arredondados (Página 50)
+
+	• Bordas Personalizadas (Página 51)
+
+5- Variáveis em Css (Página 51)
+
+6- Selecionando Tudo no Css (Página 52)
+
+7- Resposividade para Sites (Página 53)
+
+8- A idéia do Projeto (WireFrame) (Página 53)
+	
+	

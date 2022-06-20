@@ -1,0 +1,69 @@
+Curso HTML5 e CSS3 Módulo 1 (Página 1)
+
+
+
+
+1 - Como funciona HTML e CSS (Página 01)
+	• HTML5 (Página 01)
+	• CSS3(Página 01)
+
+
+
+
+2 - Primeiros passos com HTML5 (Página 03)
+	• Dicas Básicas do Visual Studio Code (Página 03)
+
+
+
+
+3 - Hierarquia de Título (Página 05)
+	
+
+
+
+4 - Caracteres, Parágrafos e Quebras de Linhas (Página 06)
+	• Emojis (Página 06)
+
+
+
+
+5 - Imagens e Favicon (Página 07)
+	• Formatos de Imagens (Página 07)
+	• Como Colocar uma Imagem no HTML (Página 08)
+	• Usando Ícone de Favoritos - Favicon (Página 09)
+
+
+
+
+6 - Formatação de Textos (Página 11)
+	• Semântica (Página 11)
+
+
+
+
+7 - Listas HTML (Página 12)
+
+
+
+
+8 - Links no HTML (Página 14)
+	• Links Internos (Página 15)
+	• Links Externos (Página 16)
+	• Links para Downloads (Página 16)
+
+
+
+
+9 - Imagens Dinâmicas, Áudio e Vídeo (Página 17)
+	• Páginas Dinâmicas (Página 17)
+	• Áudio (Página 18)
+	• Vídeo (Página 20)
+
+
+
+
+10 - Introdução às CSS (Página 21)
+	• Inline Style (Página 21)
+	• Internal Style (Página 22)
+	• External Style (Página 23)
+	
